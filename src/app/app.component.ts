@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import navbardata from 'navbar_data.json';
 
 @Component({
   selector: 'app-root',
